@@ -12,31 +12,22 @@
 
 <br>
 
-## About Me 🧑‍💻
+## About Me :
 
-Hey, I create Free-and-Open-Source software, mostly in Rust and JS.
+I create FREE AND OPENSOURCE SOFTWARES and hate paid/ai one!
+I use [Purc](https://github.com/ipude/purc) as my NEOVIM config.
 
-Since my journey started on my phone ("iQOO Z6 Lite 5G"), I always needed a good IDE. I spent nearly a whole year vibe-coding my Neovim config ("purc").
+## Funfact about me:
 
----
+I dropped my scholling for programming and still sucks at python.
+SHHH!
 
-## Journey 🚀
+## I am learning about:
 
-- **April 2025** — Started with the basics of Python, then switched to GDScript, C++, and C (by November/mid-December 2025).
-- **December 2025** — Switched to Rust. The initial journey was hard, but by April 2026, I started understanding a lot. "Pugit" helped me reach an intermediate level.
+1. Ai/Ml
+2. System programming
+3. Web dev
 
----
-
-## Future Options 🔭
-
-I love creating FOSS (free and open-source software). I would likely work in:
-
-1. **AI/ML Software Development for Healthcare** — Rust & Python
-2. **Game Development** — Rust
-3. **Robotics Software Development** — Rust
-4. **Full-Stack Web Development** — Rust, JavaScript, CSS, and HTML
-
----
 
 ## GitHub Stats 📊
 
@@ -49,6 +40,4 @@ I love creating FOSS (free and open-source software). I would likely work in:
   <img src="https://streak-stats.demolab.com/?user=ipude&hide_border=true" />
 </p>
 
----
-
-<p align="center"><i>Thanks for stopping by! ⭐</i></p>
+<p align="center">Create FOS SOFTWARES</p>
