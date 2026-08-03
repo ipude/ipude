@@ -1,6 +1,8 @@
-![My photo](https://github.com/ipude.png)
-<img src="https://github.com/ipude.png" width="150" />
-Just below it write in bold `ipude`
+<p align="center">
+  <img src="https://github.com/ipude.png" width="150" style="border-radius: 50%;" />
+</p>
+
+<p align="center"><b>ipude</b></p>
 
 ```
 Being a rustacean I suck at Python and C beacuse my coding journey began with Python, Gdscript and C++, it does'nt means that I am bad at Python, C and C++ because they are alien to me, but, because of I had never given my time to them.
