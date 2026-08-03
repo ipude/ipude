@@ -1,28 +1,18 @@
-<p align="center">
-  <img src="https://github.com/ipude.png" width="150" style="border-radius: 50%;" />
-</p>
+# ðŸ’« About Me:
+<p align="center"><br>  <img src="https://github.com/ipude.png" width="150" style="border-radius: 50%;" /><br></p><br><br><p align="center"><b>ipude</b></p><br><br># About ME:<br><br>Hey, I create Free-and-Open-Source software, mostly in Rust and JS.<br><br>Since my journey started on my phone ("iQOO Z6 Lite 5G"), I always needed a good IDE. I spent nearly a whole year vibe-coding my Neovim config ("purc").<br><br># Journey:<br><br>I first started (April 2025) with the basics of Python, then switched to GDScript, C++, and C (by November/mid-December 2025).<br><br>In December 2025, I switched to Rust. The initial journey was hard, but by April 2026, I started understanding a lot. "Pugit" helped me reach an intermediate level.<br><br># Future options:<br><br>I love creating FOSS (free and open-source software). I would likely work in:<br><br>1. AI/ML Software Development for Healthcare -- Rust & Python<br>2. Game Development -- Rust<br>3. Robotics Software Development -- Rust<br>4. Full-Stack Web Development -- Rust, JavaScript, CSS, and HTML<br>
 
-<p align="center"><b>ipude</b></p>
 
-```
-Being a rustacean I suck at Python and C beacuse my coding journey began with Python, Gdscript and C++, it does'nt means that I am bad at Python, C and C++ because they are alien to me, but, because of I had never given my time to them.
+# ðŸ’» Tech Stack:
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# ðŸ“Š GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ipude&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=ipude&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ipude&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Unlike others my coding journey started on my `Iqoo Z6 Lite 5G` in 2025.
+### ðŸ” Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ipude&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-Works like Pugit and Pubat are mostly developed on my phone. Though it sucks to code on phone with termux and neovim but not that much. 
+---
+[![](https://komarev.com/ghpvc/?username=ipude&icon=0&color=0)](https://visitcount.itsvg.in)
 
-I am glad that I have my self maintained IDE like neovim config (link to github.com/ipude/purc) that helped me a lot for coding while resting and walking.
-
-It was december of 2025 when I started learning rust after being frustrated from C. It was a hard jounery till April 2026 but soon as time passed everything became easy and meaningful to such instict that I hate learning any other language except JS.
-
-About my future production :
-
-Well, everything that I will produce on this github account will be completely MIT Licensed and FULLY OPEN SOURCE.
-
-Here is what will I do (especially after getting a PC):
-
-1. Medical sector ai soft dev (rust)
-2. Game dev (rust)
-3. Robotics (rust).
-4. Full stack Web dev (rust, Js, Css and Html)
-```
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
